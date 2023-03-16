@@ -1,0 +1,55 @@
+header{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    height: 40px;
+    position:absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 30px;
+    margin-top: 46px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 4px 0px 0px 0px;
+    box-sizing: border-box;
+    text-align: center;
+
+}
+#footer-look{
+    display: inline-block;
+}
+#f{
+    padding: 4px;
+}
+body{
+    background-color: #f0f0f0;
+    background-image: url(img/chuka.jpg);
+    font-style: arial;
+
+}
+#one{
+    display: inline-block;
+}
+#s-block{
+    width: 250px;
+    height: 250px;
+    border-radius: 200px;
+    margin:50px 200px 20px 20px;
+    cursor: pointer;
+}
+#b-complex{
+    width: 250px;
+    height: 250px;
+    border-radius: 200px;
+    margin: 50px 20px 20px 200px;
+    cursor: pointer;
+}
+header h3{
+    font-style: arial ;
+}
